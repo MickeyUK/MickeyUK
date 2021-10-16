@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MickeyUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickeyUK)](https://github.com/MickeyUK/github-readme-stats)
+[![MickeyUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickeyUK&show_icons=true&title_color=8c03fc&icon_color=8c03fc&border_color=8c03fc&bg_color=0D1117&text_color=C9D1D9&include_all_commits=true&count_private=true)](https://github.com/MickeyUK/github-readme-stats)
 
 <!--
 **MickeyUK/MickeyUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
