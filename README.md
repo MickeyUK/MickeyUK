@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![MickeyUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickeyUK)](https://github.com/MickeyUK/github-readme-stats)
+
 <!--
 **MickeyUK/MickeyUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
