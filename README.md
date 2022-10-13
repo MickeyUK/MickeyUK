@@ -1,7 +1,7 @@
 ![MickeyUK - Web & Game Developer](https://raw.githubusercontent.com/MickeyUK/MickeyUK/main/mickey_logo_2.png)
 
 
-- **Languages:** *C#, PHP, Javascript, CSS, Sass, HTML, Markdown*
+- **Languages:** *C#, C++, PHP, Javascript, CSS, Sass, HTML, Markdown*
 - **Frameworks:** *Laravel, Cordova, Ionic, Flutter*
 - **Skills:** *Cross Platform App Development, Game Development, Responsive Web Design, CMS Development*
 - **Web Technologies:** *REST, jQuery, three.js, WordPress, Joomla*
