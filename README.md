@@ -3,14 +3,14 @@
   ![MickeyUK - Web & Game Developer](https://raw.githubusercontent.com/MickeyUK/MickeyUK/main/mickey_logo_2.png)
   
   <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/KoFi-blue?style=flat&logo=kofi&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://ko-fi.com/mickeyuk">
+      <img src="https://img.shields.io/badge/KoFi-blue?style=flat&logo=kofi&logoColor=white" alt="KoFi Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://www.youtube.com/@mickey_uk">
       <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="discord">
-      <img src="https://img.shields.io/badge/Parsec Discord-purple?style=flat&logo=discord&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://discord.gg/9ZHmwce">
+      <img src="https://img.shields.io/badge/Parsec Discord-purple?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
   </div>
   
