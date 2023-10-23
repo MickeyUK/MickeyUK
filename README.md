@@ -1,8 +1,7 @@
 <div id="header" align="center">
   
-  ![MickeyUK - Web & Game Developer](https://raw.githubusercontent.com/MickeyUK/MickeyUK/main/mickey_logo_2.png)
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./mickey_logo_2.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./mickey_logo_dark.png">
     <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./mickey_logo_light.png">
   </picture>
   
