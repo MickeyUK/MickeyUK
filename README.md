@@ -1,3 +1,9 @@
+<style>
+html[data-dark-theme="dark"] .test-element {
+  display: none;
+}
+</style>
+<div class="test-element">Test</div>
 <div id="header" align="center">
   
   ![MickeyUK - Web & Game Developer](https://raw.githubusercontent.com/MickeyUK/MickeyUK/main/mickey_logo_2.png)
