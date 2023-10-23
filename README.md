@@ -1,11 +1,13 @@
 <div id="header" align="center">
   
   <picture>
-    <source alt="MickeyUK" media="(prefers-color-scheme: dark)" srcset="./mickey_logo_dark.png">
-    <img alt="MickeyUK" src="./mickey_logo_light.png">
+    <source alt="MickeyUK" media="(prefers-color-scheme: dark)" srcset="full_logo_dark.png">
+    <img alt="MickeyUK" src="full_logo_light.gif">
   </picture>
-  
   <div id="badges">
+    <a href="https://mickeyuk.com">
+      <img src="https://img.shields.io/website/https/mickeyuk.com?style=flat&logoColor=white" alt="KoFi Badge"/>
+    </a>
     <a href="https://ko-fi.com/mickeyuk">
       <img src="https://img.shields.io/badge/KoFi-blue?style=flat&logo=kofi&logoColor=white" alt="KoFi Badge"/>
     </a>
@@ -13,7 +15,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://discord.gg/9ZHmwce">
-      <img src="https://img.shields.io/badge/Parsec Discord-purple?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
+      <img src="https://img.shields.io/badge/Discord-purple?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
   </div>
   
