@@ -1,8 +1,8 @@
 <div id="header" align="center">
   
-  <picture>
-    <source alt="MickeyUK" media="(prefers-color-scheme: dark)" srcset="full_logo_dark.png">
-    <img alt="MickeyUK" src="full_logo_light.gif">
+  <picture width="390" height="96">
+    <source width="390" height="96" alt="MickeyUK" media="(prefers-color-scheme: dark)" srcset="full_logo_dark.png">
+    <img width="390" height="96" alt="MickeyUK" src="full_logo_light.gif">
   </picture>
   <div id="badges">
     <a href="https://mickeyuk.com">
